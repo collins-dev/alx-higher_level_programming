@@ -12,5 +12,5 @@ These projects are part of the ALX School year 1 curriculum.
 Directories | Description
 ----------- | -----------
 [0x00-python-hello_world](./0x00-python-hello_world) | Introduction to Python programming
-
+[0x01-pythin-if_else_functions](./0x01-pyhton-if_else_loops_functions) |introduction to python if/else statement, loops and functions.
 
